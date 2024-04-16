@@ -23,3 +23,6 @@ Return (e, s)
 1. Generate msg and msgHash
 2. Push msgHash to App
 3. Get (e, s) and start verifying
+
+4. # File
+1. Signature_Single.js: only need to test this file. If it is ok, then Signature_Multiple.js will be executed the same
